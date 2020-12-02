@@ -20,6 +20,7 @@
         "symfony/maker-bundle": "^1.24",
         "symfony/security-bundle": "4.4.*",
         "symfony/stopwatch": "4.4.*",
+        "symfony/swiftmailer-bundle": "* v3.5.1",
         "symfony/twig-bundle": "4.4.*",
         "symfony/validator": "4.4.*",
         "symfony/web-profiler-bundle": "4.4.*",
